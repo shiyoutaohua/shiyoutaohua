@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 <h2>Languages and Tools:</h2>
 <div>
-    <a href="https://kernel.org" target="_blank">
+    <a href="https://kernel.org">
         <img src="https://skillicons.dev/icons?i=linux" />
     </a>
-    <a href="https://www.rust-lang.org" target="_blank">
+    <a href="https://www.rust-lang.org">
         <img src="https://skillicons.dev/icons?i=rust" />
     </a>
     <a href="#">
@@ -150,10 +150,10 @@ Here are some ideas to get you started:
     <a href="#">
         <img src="https://skillicons.dev/icons?i=gitlab" />
     </a>
-    <a href="https://bevy.org/" target="_blank">
+    <a href="https://bevy.org/">
         <img src="https://skillicons.dev/icons?i=bevy" />
     </a>
-    <a href="https://godotengine.org" target="_blank">
+    <a href="https://godotengine.org">
         <img src="https://skillicons.dev/icons?i=godot" />
     </a>
 </div>
