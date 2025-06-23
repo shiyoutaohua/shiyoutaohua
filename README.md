@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **qingyuehanxi@gmail.com**
 
 <hr/>
-
+<h2 align="center">Languages and Tools:</h2>
 <div>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
