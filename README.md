@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <a href="https://www.rust-lang.org">
             <img src="https://skillicons.dev/icons?i=rust" />
         </a>
-        <a>
+        <a href="#">
             <img src="https://skillicons.dev/icons?i=java" />
         </a>
         <a href="#">
