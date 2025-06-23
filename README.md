@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Distributed URL shorten service**
 - 🌱 I’m currently learning **Rust and LLM**
 - 👯 I’m looking to collaborate on [Rust tokio projects](https://github.com/shiyoutaohua)
-- 👨‍💻 All of my projects are available at [https://geliyangvu.github.io/](https://github.com/shiyoutaohua)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shiyoutaohua)
 - 💬 Ask me about **Rust, SmartContract**
 - 📫 How to reach me **qingyuehanxi@gmail.com**
 
