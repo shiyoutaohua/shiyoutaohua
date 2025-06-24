@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h1 align="center">Hi 👋, I'm Xingyun Cheng</h1> -->
-<!-- <h3 align="center">Full-stack web developer</h3> -->
-
-<h1 style="text-align: center;">Hi 👋, I'm Xingyun Cheng</h1>
-<h3 style="text-align: center;">Full-stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Xingyun Cheng</h1>
+<h3 align="center">Full-stack web developer</h3>
 
 - 🔭 I’m currently working on **Distributed URL shorten service**
 - 🌱 I’m currently learning **Rust and LLM**
