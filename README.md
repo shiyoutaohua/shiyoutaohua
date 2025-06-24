@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Xingyun Cheng</h1>
-<h3 align="center">Full-stack web developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Xingyun Cheng</h1> -->
+<!-- <h3 align="center">Full-stack web developer</h3> -->
+
+<h1 style="text-align: center;">Hi 👋, I'm Xingyun Cheng</h1>
+<h3 style="text-align: center;">Full-stack web developer</h3>
 
 - 🔭 I’m currently working on **Distributed URL shorten service**
 - 🌱 I’m currently learning **Rust and LLM**
@@ -22,140 +25,49 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Rust, SmartContract**
 - 📫 How to reach me **qingyuehanxi@gmail.com**
 
-<h2>Languages and Tools:</h2>
-<div>
-<div>
-    <a style="display: inline-flex;" href="https://kernel.org">
-        <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
-    </a>
-    <a style="display: inline-flex;" href="https://www.rust-lang.org">
-        <img title="Rust" src="https://skillicons.dev/icons?i=rust" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Java" src="https://skillicons.dev/icons?i=java" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="C" src="https://skillicons.dev/icons?i=c" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="C++" src="https://skillicons.dev/icons?i=cpp" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Golang" src="https://skillicons.dev/icons?i=golang" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Python" src="https://skillicons.dev/icons?i=python" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Javascript" src="https://skillicons.dev/icons?i=js" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Typescript" src="https://skillicons.dev/icons?i=ts" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="WASM" src="https://skillicons.dev/icons?i=wasm" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Bash" src="https://skillicons.dev/icons?i=bash" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Electron" src="https://skillicons.dev/icons?i=electron" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Tauri" src="https://skillicons.dev/icons?i=tauri" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="HTML" src="https://skillicons.dev/icons?i=html" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="CSS" src="https://skillicons.dev/icons?i=css" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Deno" src="https://skillicons.dev/icons?i=deno" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Bun" src="https://skillicons.dev/icons?i=bun" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="React" src="https://skillicons.dev/icons?i=react" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Vue" src="https://skillicons.dev/icons?i=vue" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Spring" src="https://skillicons.dev/icons?i=spring" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Maven" src="https://skillicons.dev/icons?i=maven" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Gradle" src="https://skillicons.dev/icons?i=gradle" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Kubernetes" src="https://skillicons.dev/icons?i=k8s" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Kafka" src="https://skillicons.dev/icons?i=kafka" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Nginx" src="https://skillicons.dev/icons?i=nginx" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Git" src="https://skillicons.dev/icons?i=git" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Google Cloud Platform" src="https://skillicons.dev/icons?i=gcp" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a style="display: inline-flex;" href="#">
-        <img title="GitLab" src="https://skillicons.dev/icons?i=gitlab" />
-    </a>
-    <a style="display: inline-flex;" href="https://bevy.org/">
-        <img title="Bevy" src="https://skillicons.dev/icons?i=bevy" />
-    </a>
-    <a style="display: inline-flex;" href="https://godotengine.org">
-        <img title="Godot" src="https://skillicons.dev/icons?i=godot" />
-    </a>
-</div>
-</div>
+## Languages and Tools:
+
+[![Linux](https://skillicons.dev/icons?i=linux "Linux")](https://kernel.org)
+[![Rust](https://skillicons.dev/icons?i=rust "Rust")](https://www.rust-lang.org)
+[![Java](https://skillicons.dev/icons?i=java "Java")]()
+[![C](https://skillicons.dev/icons?i=c "C")]()
+[![C++](https://skillicons.dev/icons?i=cpp "C++")]()
+[![Golang](https://skillicons.dev/icons?i=golang "Golang")]()
+[![Python](https://skillicons.dev/icons?i=python "Python")]()
+[![Javascript](https://skillicons.dev/icons?i=js "Javascript")]()
+[![Typescript](https://skillicons.dev/icons?i=ts "Typescript")]()
+[![WASM](https://skillicons.dev/icons?i=wasm "WASM")]()
+[![Bash](https://skillicons.dev/icons?i=bash "Bash")]()
+[![Electron](https://skillicons.dev/icons?i=electron "Electron")]()
+[![Tauri](https://skillicons.dev/icons?i=tauri "Tauri")]()
+[![HTML](https://skillicons.dev/icons?i=html "HTML")]()
+[![CSS](https://skillicons.dev/icons?i=css "CSS")]()
+[![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")]()
+[![Deno](https://skillicons.dev/icons?i=deno "Deno")]()
+[![Bun](https://skillicons.dev/icons?i=bun "Bun")]()
+[![React](https://skillicons.dev/icons?i=react "React")]()
+[![Vue](https://skillicons.dev/icons?i=vue "Vue")]()
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")]()
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")]()
+[![Spring](https://skillicons.dev/icons?i=spring "Spring")]()
+[![Maven](https://skillicons.dev/icons?i=maven "Maven")]()
+[![Gradle](https://skillicons.dev/icons?i=gradle "Gradle")]()
+[![Kubernetes](https://skillicons.dev/icons?i=k8s "Kubernetes")]()
+[![Docker](https://skillicons.dev/icons?i=docker "Docker")]()
+[![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")]()
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql "PostgreSQL")]()
+[![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")]()
+[![SQLite](https://skillicons.dev/icons?i=sqlite "SQLite")]()
+[![Redis](https://skillicons.dev/icons?i=redis "Redis")]()
+[![Kafka](https://skillicons.dev/icons?i=kafka "Kafka")]()
+[![Nginx](https://skillicons.dev/icons?i=nginx "Nginx")]()
+[![FastAPI](https://skillicons.dev/icons?i=fastapi "FastAPI")]()
+[![Git](https://skillicons.dev/icons?i=git "Git")]()
+[![Jenkins](https://skillicons.dev/icons?i=jenkins "Jenkins")]()
+[![Google Cloud Platform](https://skillicons.dev/icons?i=gcp "Google Cloud Platform")]()
+[![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")]()
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare "Cloudflare")]()
+[![GitHub](https://skillicons.dev/icons?i=github "GitHub")]()
+[![GitLab](https://skillicons.dev/icons?i=gitlab "GitLab")]()
+[![Bevy](https://skillicons.dev/icons?i=bevy "Bevy")](https://bevy.org/)
+[![Godot](https://skillicons.dev/icons?i=godot "Godot")](https://godotengine.org)
